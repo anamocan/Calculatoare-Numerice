@@ -1,0 +1,7 @@
+`include "ffd.sv"
+`include "register.sv"
+`include "block.sv"
+`include "t_flipflop.sv"
+`include "set.sv"
+`include "cache.sv"
+`include "cache_controller.sv"
